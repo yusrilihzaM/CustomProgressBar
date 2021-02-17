@@ -2,4 +2,7 @@
     <string name="app_name">ProgressDialogBar</string>
     <string name="dialog_progess_bar">Dialog Progess Bar</string>
     <string name="loading">Loading..</string>
+    <string name="progress_dialog_chasingdots">Progress Dialog ChasingDots</string>
+
+    <string name="progress_dialog_foldingcube">Progress Dialog FoldingCube</string>
 </resources>
