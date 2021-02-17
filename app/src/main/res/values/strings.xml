@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProgressDialogBar</string>
+    <string name="dialog_progess_bar">Dialog Progess Bar</string>
+    <string name="loading">Loading..</string>
+</resources>
